@@ -6,7 +6,10 @@ First, run the development server:
 
 ```bash
 installation:
-npx create-next-app@latest
+npx create-next-app@latest bundlebuilder
+cd bundlebuilder
+
+running:
 
 npm run dev
 # or
